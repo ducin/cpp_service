@@ -1,0 +1,4 @@
+[Project]
+Name=finances
+Manager=KDevCMakeManager
+VersionControl=kdevgit
